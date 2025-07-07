@@ -1,3 +1,3 @@
 # scripts
 List of scripts in this repo:
-- disable-xhc0.sh - Disable devices from waking up the system right after suspended
+- allow-suspend.sh - Disable devices from waking up the system right after suspended
